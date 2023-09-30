@@ -1,0 +1,7 @@
+{
+	"token": "your bot token",
+    "clientId": "its client id",
+    "ownerId": "its owners id",
+    "guildId": "its main guilds id",
+    "mongoSrv": "string to connect to mongo server"
+}

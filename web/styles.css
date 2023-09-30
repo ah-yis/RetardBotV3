@@ -1,0 +1,80 @@
+a:link {
+    color: #3391ff
+}
+
+a:visited {
+    color: #3391ff
+}
+
+a:hover {
+    color: #551a8b
+}
+
+body {
+    background-color: #000000;
+}
+
+header {
+    padding-right: 20px; /* Adjust the amount of padding as needed */
+    text-align: left; /* Align the text to the left */
+    font-size: larger;
+}
+
+h1 {
+    padding-right: 20px; /* Adjust the amount of padding as needed */
+    text-align: left; /* Align the text to the left */
+    font-size: larger;
+}
+
+h2 {
+    padding-right: 20px; /* Adjust the amount of padding as needed */
+    text-align: left; /* Align the text to the left */
+    font-size: larger;
+}
+
+h3 {
+    padding-right: 20px; /* Adjust the amount of padding as needed */
+    text-align: left; /* Align the text to the left */
+    font-size: larger;
+}
+
+body {
+    padding-right: 20px; /* Adjust the amount of padding as needed */
+    text-align: left; /* Align the text to the left */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.navbar {
+    background-color: #1e1e1e; /* Background color of the navbar */
+    overflow: hidden;
+}
+
+/* Style the navbar list */
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Style the navbar list items */
+.navbar li {
+    float: left;
+}
+
+/* Style the navbar links */
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change link color on hover */
+.navbar a:hover {
+    background-color: #ddd; /* Background color on hover */
+    color: black;
+}
