@@ -1,0 +1,91 @@
+a:link {
+    color: #3391ff
+}
+
+a:visited {
+    color: #3391ff
+}
+
+a:hover {
+    color: #551a8b
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    padding-right: 20px ;
+    text-align: left ;
+    font-size: larger;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    padding-right: 20px ;
+    text-align: left ;
+    font-size: larger;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    padding-right: 20px ;
+    text-align: left ;
+    font-size: larger;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    padding-right: 20px ;
+    text-align: left ;
+    font-size: larger;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    padding-right: 20px ;
+    text-align: left ;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.navbar {
+    background-color: #1e1e1e; /* Background color of the navbar */
+    overflow: hidden;
+}
+
+/* Style the navbar list */
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Style the navbar list items */
+.navbar li {
+    float: left;
+}
+
+/* Style the navbar links */
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Change link color on hover */
+.navbar a:hover {
+    background-color: #ddd; /* Background color on hover */
+    color: black;
+}
