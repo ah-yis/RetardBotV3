@@ -1,5 +1,7 @@
 # Directories
 fake.git/
+web/
+node_modules/
 
 # File types
 

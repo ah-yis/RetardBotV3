@@ -1,0 +1,1 @@
+npm install axios discord.js node-fetch
